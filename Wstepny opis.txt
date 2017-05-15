@@ -1,15 +1,15 @@
 Nazwa programu: Gra w statki 
 
-Opis: Gra któr¹ chcê stworzyæ ma byæ wersj¹ popularnej gry statki, w której przeciwnikiem bêdzie komputer.
+Opis: Gra ktÃ³rÄ… chcÄ™ stworzyÄ‡ ma byÄ‡ wersjÄ… popularnej gry statki napisana z wykorzystaniem WPF, w ktÃ³rej przeciwnikiem bÄ™dzie komputer.
 
-Gra bêdzie sk³ada³a siê z nastêpuj¹cych czêœci:
-1. Wybór wieloœci planszy
-2. Wybór statków (iloœæ, wielkoœæ) - im wiêksza plansza tym wiêcej statków mo¿na wybraæ
-2. Ustawienie pozycji statków przez u¿ytkownika, oraz komputer (wykorzystuj¹ce pseudolosowoœæ)
+Gra bÄ™dzie skÅ‚adaÅ‚a siÄ™ z nastÄ™pujÄ…cych czÄ™Å›ci:
+1. WybÃ³r wieloÅ›ci planszy
+2. WybÃ³r statkÃ³w (iloÅ›Ä‡, wielkoÅ›Ä‡) - im wiÄ™ksza plansza tym wiÄ™cej statkÃ³w moÅ¼na wybraÄ‡
+2. Ustawienie pozycji statkÃ³w przez uÅ¼ytkownika, oraz komputer (wykorzystujÄ…ce pseudolosowoÅ›Ä‡)
 3. Gra przeciwko komputerowi:
-	a) U¿ytkownik bêdzie wskazywa³ dane pole przy pomocy GUI
-	b) Komputer bêdzie losowa³ pole wykorzysuj¹c pseudolosowoœæ + prost¹ logikê dzia³ania (d¹¿enie do zatopienia statku po jego trafieniu)
-	c) Grê wygrywa ten kto zatopi wszystkie statki przeciwnika
+	a) UÅ¼ytkownik bÄ™dzie wskazywaÅ‚ dane pole przy pomocy GUI
+	b) Komputer bÄ™dzie losowaÅ‚ pole wykorzysujÄ…c pseudolosowoÅ›Ä‡ + prostÄ… logikÄ™ dziaÅ‚ania (dÄ…Å¼enie do zatopienia statku po jego trafieniu)
+	c) GrÄ™ wygrywa ten kto zatopi wszystkie statki przeciwnika
 4. Inne funkcje:
-	a) Wyœwietlanie liczby statków, które pozosta³y zarówno komputerowi jak i graczowi
-	b) Wyœwietlanie czasu gry
+	a) WyÅ›wietlanie liczby statkÃ³w, ktÃ³re pozostaÅ‚y zarÃ³wno komputerowi jak i graczowi
+	b) WyÅ›wietlanie czasu gry
