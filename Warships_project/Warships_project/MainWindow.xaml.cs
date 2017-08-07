@@ -479,7 +479,6 @@ namespace Warships_project
             Random randomPosition = new Random();
             if (AvailableLocations.Count == 0)
             {
-                MessageBox.Show("Słabo!!!");
                 return false;
             }
             var positionNumber = randomPosition.Next(0, AvailableLocations.Count);
