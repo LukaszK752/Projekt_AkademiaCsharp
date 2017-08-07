@@ -1,0 +1,39 @@
+Nazwa programu: Warships
+
+Opis: Gra któr¹ stworzy³em to wersja popularnej gry statki napisana z wykorzystaniem WPF, w której przeciwnikiem jest komputer.
+
+Opis dzia³ania programu:
+
+1. G³ówne Menu
+	- wybór wielkoœci planszy
+	- wybór iloœci statków
+	- start nowej gry - skasowanie postêpów w grze, przywrócenie domyœlnych ustawieñ
+	- wyœwietlenie Help'a
+2. Ustawienie statków gracza:
+	- sprawdzenie czy dany statek mo¿na ustawiæ na danej pozycji: (statki nie mog¹ graniczyæ z sob¹)
+		(jeœli tak to przyciski s¹ koloru bia³ego, jeœlie nie to przyciski s¹ koloru niebieskiego)
+	- ustawienie statku na pozycji
+	- zmiana pozycji statku poprzez klikniêcie prawego przycisku myszy
+	- zakoñczenie ustawiania statków gdy wszystkie zostan¹ ustawione
+3. Ustawienie statków komputera:
+	- ustawienie statków wykorzystuj¹ce pseudolosowoœæ, bior¹ce pod uwagê, ¿e statki nie mog¹ graniczyæ z sob¹
+4. Atak statku komputera przez u¿ytkownika
+	- wybór pola poprzez jego klikniêcie prawym przyciskiem myszy
+	- sprawdzenie czy pod danym polem znajduje siê statek
+	- sprawdzenie czy wszystkie pola nale¿¹ce do statku zosta³y trafione, jeœli tak to zmniejszenie iloœci statków do zatopienia
+	- wykonanie kolejnego ataku gdy poprzedni zakoñczy³ siê sukcesem, lub przejœcie do ataku przez komputer
+5. Atak statku u¿ytkowanika przez komputer
+	- wybór pola do ataku wykorzystuj¹cego pseudolosowoœæ + prost¹ logikê
+	Logika dzia³ania:
+		- gdy komputer trafi³ jedno pole (dla statków o wielkoœci wiêkszej ni¿ jedno pole) ma 4 mo¿liwoœci ataku (lewo, prawo, góra, dó³)
+		od pozycji danego trafionego pola (jeœli dane pola zosta³y wczeœniej sprawdzone to odpowiednio mniej)
+		- gdy komputer trafi³ dwa lub wiêcej pól to komputer ma 2 mo¿liwoœci ataku (pola s¹siaduj¹ce w tej samej p³aszczyŸnie), jeœli dane
+		pole zosta³o ju¿ trafione to pozostaje tylko jedna opcja ataku
+	- po skutecznym ataku komputer ma kolejny ruch
+	- wykonanie kolejnego ataku gdy poprzedni zakoñczy³ siê sukcesem, lub przejœcie do ataku przez u¿ytkownika
+6. Zakoñczenie gry gdy skoñcz¹ siê statki jednego z graczy
+
+Link do filmu na YT: https://www.youtube.com/watch?v=B9YHnPHFOB4&feature=youtu.be
+
+	 
+	
