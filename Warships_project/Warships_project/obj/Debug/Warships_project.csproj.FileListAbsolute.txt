@@ -1,0 +1,48 @@
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\bin\Debug\Warships_project.exe.config
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\bin\Debug\Warships_project.exe
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\bin\Debug\Warships_project.pdb
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\Warships_project.csprojResolveAssemblyReference.cache
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\MainWindow.g.cs
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\App.g.cs
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\Warships_project_MarkupCompile.cache
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\Warships_project_MarkupCompile.lref
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\MainWindow.baml
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\Warships_project.g.resources
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\Warships_project.Properties.Resources.resources
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\Warships_project.csproj.GenerateResource.Cache
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\Warships_project.exe
+c:\users\lukaszk\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\Warships_project.pdb
+C:\Users\LukaszK\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\HelpWindow.g.cs
+C:\Users\LukaszK\documents\visual studio 2017\Projects\Warships_project\Warships_project\obj\Debug\HelpWindow.baml
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\bin\Debug\Warships_project.exe.config
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\Warships_project.exe
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\Warships_project.pdb
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\HelpWindow.g.cs
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\MainWindow.g.cs
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\App.g.cs
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\Warships_project_MarkupCompile.cache
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\Warships_project_MarkupCompile.lref
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\bin\Debug\Warships_project.exe
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\bin\Debug\Warships_project.pdb
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\HelpWindow.baml
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\MainWindow.baml
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\Warships_project.g.resources
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\Warships_project.Properties.Resources.resources
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\Warships_project.csproj.GenerateResource.Cache
+D:\Mieszko\Documents\Visual Studio 2013\Warships_project\Warships_project\obj\Debug\Warships_project.csprojResolveAssemblyReference.cache
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\bin\Debug\Warships_project.exe.config
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\bin\Debug\Warships_project.exe
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\bin\Debug\Warships_project.pdb
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\Warships_project.csprojResolveAssemblyReference.cache
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\HelpWindow.g.cs
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\MainWindow.g.cs
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\App.g.cs
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\Warships_project_MarkupCompile.cache
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\Warships_project_MarkupCompile.lref
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\HelpWindow.baml
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\MainWindow.baml
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\Warships_project.g.resources
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\Warships_project.Properties.Resources.resources
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\Warships_project.csproj.GenerateResource.Cache
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\Warships_project.exe
+C:\Users\LukaszK\Downloads\Warships_project_\Warships_project\Warships_project\obj\Debug\Warships_project.pdb
